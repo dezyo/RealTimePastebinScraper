@@ -15,6 +15,9 @@ Thing you need to install before running the script.
 - bs4 (Python library)
 ```
 
+## To-Do
+Eliminate Selenium prerequisite, and change it to simple http requests
+
 ## Authors
 
 * **Devsc** - (https://github.com/Dezyo)
