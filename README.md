@@ -11,7 +11,7 @@ Thing you need to install before running the script.
 ```
 - Python 3.x
 - If you use Anon version: Tor running with 9050 as ControlPort
-- Selenim (Python library)
+- Selenim (Python library) with firefox geckodriver
 - bs4 (Python library)
 ```
 
